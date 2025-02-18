@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/shaw.svg)](https://travis-ci.com/globalbioticinteractions/shaw) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/shaw)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/shaw)
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/shaw)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/shaw2020)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
